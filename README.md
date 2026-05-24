@@ -66,7 +66,7 @@ The dataset contains medical attributes including:
 - Training Accuracy: Good Accuracy Achieved
 - Test Accuracy: Approximately 82%
 
-1 → Person has heart disease
+1 → Person has heart disease  
 0 → Person does not have heart disease
 
 ---
